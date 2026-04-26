@@ -1,5 +1,6 @@
-Sales_Management_System
-Laravel 11 & PHP 8.2 Based Web Application
+##Sales_Management_System
+##Laravel 11 & PHP 8.2 Based Web Application
+
 ##Overview
 Sales Management System is a comprehensive B2B platform built with Laravel 11 to streamline company operations, customer interactions, and sales growth. By analyzing customer history and financial data, it helps businesses enhance relationships and ensure efficient, profitable operations.
 
